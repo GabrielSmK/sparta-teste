@@ -2,9 +2,9 @@
 
 ## ⚙️ Passo a passo
 
-1 - Execute o arquivo main.py
-2 - Digite o CNPJ da empresa desejada
-3 - Digite a data do registro que gostaria de exibir
+**1 - Execute o arquivo main.py**
+**2 - Digite o CNPJ da empresa desejada**
+**3 - Digite a data do registro que gostaria de exibir**
 
 ### Exemplo
 
